@@ -1,8 +1,6 @@
-A real-time overlay for streaming. Can be easily skinned into different characters. [Reddit thread.](https://www.reddit.com/r/leagueoflegends/comments/co0gql/i_made_a_pengu_featherknight_cam_for_streaming/)
+A real-time overlay for streaming. Can be easily skinned into different characters. My original "Bongo Cat" version released through Reddit/YouTube had **60k+ downloads**.
 
-
-Also see the "Bongo Cat" version I originally released: https://github.com/kuroni/bongocat-osu
-
+Also see this open-sourced version of my original release: https://github.com/kuroni/bongocat-osu
 
 <img src="demo.gif" width="431" height="267"/>
 
