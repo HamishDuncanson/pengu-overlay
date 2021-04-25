@@ -1,4 +1,4 @@
-A real-time overlay for streaming. Can be easily skinned into different characters. My original "Bongo Cat" version released via puush has **85k+ downloads** and customized skins are popular on YouTube and Twitch.
+A real-time overlay for streaming. Can be easily skinned into different characters. My original "Bongo Cat" version released via puush has **85k+ downloads**.
 
 Also see this open-sourced version of my original release: https://github.com/kuroni/bongocat-osu
 
