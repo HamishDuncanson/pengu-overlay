@@ -1,0 +1,35 @@
+﻿  bongo cat.cpp
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(13): warning C4838: conversion from '__int64' to 'float' requires a narrowing conversion
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(13): warning C4305: 'initializing': truncation from '__int64' to 'float'
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(232): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(235): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(238): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(250): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(251): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(268): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(269): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(350): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(360): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(383): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(384): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(385): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(402): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(407): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(408): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(409): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(413): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(418): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(435): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(438): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(438): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(445): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(447): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(506): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(511): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(516): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(536): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(541): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\hamis\desktop\neko\bongo cat\bongo cat\bongo cat.cpp(546): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  bongo cat.vcxproj -> C:\Users\hamis\Desktop\neko\bongo cat\Debug\bongo cat.exe
